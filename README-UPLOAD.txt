@@ -1,0 +1,1 @@
+Upload all extracted files and folders to the root of your GitHub Pages repository. Keep index.html and assets/test1/page1.png through page6.png together. No backend required. Original test scans are teacher-supplied.
